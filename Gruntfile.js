@@ -1,5 +1,5 @@
 /*
- * grunt-swig
+ * grunt-swig-json
  *
  *
  * Copyright (c) 2015 Daniel França

@@ -4,5 +4,5 @@
 		{% include "./includes/item.tpl" %}
 	{% endfor %}
 
-	{% include "./includes/item.tpl" { "author": "Daniel" } %}
+	{% include "./includes/item.tpl" %}
 </ul>
